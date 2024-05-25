@@ -1,0 +1,103 @@
+*{margin: 0;
+padding: 0;}
+
+body{
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 50px;
+}
+.heading{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.hed{
+    font-size: 60px;
+    padding-bottom: 10px;
+}
+.hed2{
+    font-size: 30px;
+    padding-bottom: 15px;
+}
+.hed3{
+
+    background-color: orangered;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right:10px;
+
+}
+.contant{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.con{
+    padding-top: 10px;
+}
+
+.intrest{
+    background-color: blueviolet;
+    color: black;
+    display: inline-block;
+    padding: 20px;
+    height: 200px;
+    border-radius: 10px;
+    vertical-align:top;
+    
+}
+.int{
+    padding-top: 10px;
+}
+.project{
+    background-color: orangered;
+    color: black;
+    display: inline-block;
+    padding: 20px;
+    height: 200px;
+    border-radius: 10px;
+    
+}
+.pro{
+    padding-bottom: 10px;
+}
+.end{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+.ed{
+    padding-bottom: 5px;
+}
+li{
+    list-style:none;
+}
+.ed1{
+    color: #C45117;
+}
+
+.form{
+    margin-top: 50px;
+}
+
+.one, .two, .three{
+    margin-top: 10px;
+    padding: 10px;
+    border: none;
+    border-bottom: solid 1px black;
+
+}
+.sub{
+    background-color: orangered;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: black;
+    border: none;
+}
+
