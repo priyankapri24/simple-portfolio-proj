@@ -1,7 +1,8 @@
 Project Name: Simple-Portfolio project
 
 Description:
-Welcome to Simple-Portfolio project! This minimalist portfolio project is built using only HTML and basic CSS, featuring two essential pages: Home and Contact. With a focus on simplicity and clarity, this portfolio provides a straightforward platform to showcase my skills and projects. The Home page offers a brief overview of my work, while the Contact page provides a means to get in touch. Feel free to explore and reach out!
+Welcome to Simple-Portfolio project! This minimalist portfolio project is built using only HTML and basic CSS, featuring two essential pages: Home and Contact. With a focus on simplicity and clarity, this portfolio provides a straightforward platform to showcase my skills and projects. The Home page offers a brief overview of my work, while the Contact page provides a means to get in touch. 
+Feel free to explore and reach out! https://priyankapri24.github.io/simple-portfolio-proj/
 
 Features:
 
